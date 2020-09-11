@@ -3,4 +3,4 @@ We can control homely systems with using smartphone's bluetooth facility...Low c
 
 ## Diagram
 
-<img src="image">
+<img src="diagram.jpeg">
